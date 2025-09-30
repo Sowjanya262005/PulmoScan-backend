@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pillow
+torch
+torchvision
+timm
+python-multipart
+pydantic
+numpy
+scikit-image
+pydantic-settings
