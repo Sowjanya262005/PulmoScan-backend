@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.db
+
+# Model files or large data
+*.h5
+*.pt
+*.pth
+*.onnx
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
