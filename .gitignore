@@ -24,3 +24,13 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore large model files
+*.pth
+*.pt
+*.pkl
+*.h5
+
